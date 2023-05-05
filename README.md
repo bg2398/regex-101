@@ -17,6 +17,3 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 ## Gist link
 https://gist.github.com/bg2398/282f0860d5772e720eaa2f8a957ded01
-
-## REGEX Reference Links
-https://www.geeksforgeeks.org/how-to-validate-hexadecimal-color-code-using-regular-expression/
